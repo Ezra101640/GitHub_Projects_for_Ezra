@@ -1,1 +1,1 @@
-"Hey Git and GitHub" 
+"Hello GitHub and Git" 
